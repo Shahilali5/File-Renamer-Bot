@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Pᴀɪɴ X Rᴇɴᴀᴍᴇ Bᴏᴛ
+# Shahil X Rᴇɴᴀᴍᴇ Bᴏᴛ
 
-### Sᴀᴍᴩʟᴇ Bᴏᴛ (Pᴀɪɴ Rᴇɴᴀᴍᴇ Bᴏᴛ)
+### Sᴀᴍᴩʟᴇ Bᴏᴛ (Shahil Rᴇɴᴀᴍᴇ Bᴏᴛ)
 
 
- <a href="https://t.me/File_Renamer_4Gb_RoBot">"Telegram"</a>
+ <a href="https://t.me/File_Renamer_5Gb_RoBot">"Telegram"</a>
 
 ## Deploy To Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Shahilali5/File-Renamer-Bot)
 
 ## Deploy To Railway
 
