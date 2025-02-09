@@ -7,9 +7,9 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID = os.environ.get("API_ID", "26131042")  # ⚠️ Required
-    API_HASH = os.environ.get("API_HASH", "c3490f11ce698fece6d44e6e8a91f9b8")  # ⚠️ Required
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7706443765:AAHVlqoy-MB_Ytmp3OyeuKrJOobnMIaOBCI")  # ⚠️ Required
+    API_ID = os.environ.get("API_ID", "Enter Api Id")  # ⚠️ Required
+    API_HASH = os.environ.get("API_HASH", "Enter Api Hash")  # ⚠️ Required
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "Enter Your Bot Token")  # ⚠️ Required
 
     # premium 4g renaming client
     STRING_API_ID = os.environ.get("STRING_API_ID", "")
@@ -18,7 +18,7 @@ class Config(object):
     
     # database config
     DB_NAME = os.environ.get("DB_NAME", "Snow_User_Data")
-    DB_URL = os.environ.get("DB_URL", "mongodb+srv://ms7371091:drag123@cluster0.vwfw6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")  # ⚠️ Required
+    DB_URL = os.environ.get("DB_URL", "mongodb+srv://Filestorebot:Filestorebot@11@cluster0.dkey6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")  # ⚠️ Required
 
     # other configs
     BOT_UPTIME = time.time()
